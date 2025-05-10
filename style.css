@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    padding: 10px;
+    color: #2618b1;
+    text-align: center;
+    border-bottom: 5px dotted #2618b1;
+}
+.map{
+    position: absolute;
+
+}
+.marker{
+    position:absolute;
+    left: 400px;
+    top: 200px;
+}
+.marker span{
+    background-color: white;
+}
